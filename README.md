@@ -2,8 +2,8 @@
 Some ML projects to show my progress
 
 ## Predict if someone will earn over 50k $ anually
-Classification on public data. I generated some new features and used tree-based methods (CART, Random Forest, XGBoost). Even with simpler methods results seem promising. This kind of information can help target some products, offers, ideas etc. in a better way. You'll find here some examples of hypermeter optmization here (manual or bayesian with hyperopt)
+Adut AKA Census Income dataset. Classification on public data. I generated some new features and used tree-based methods (CART, Random Forest, XGBoost). Even with simpler methods results seem promising. This kind of information can help target some products, offers, ideas etc. in a better way. You'll find here some examples of hypermeter optmization (manual or bayesian with hyperopt)
 
 ## Drug Consumption
-Another classification, this time on drug-related data from UCI ML Repository. Many classification problems are associated with this data - I decided to predict if someone is cannabis user.
+Another classification, this time on drug-related data from UCI ML Repository. Many classification problems are associated with this data - I decided to predict if someone is cannabis user. This is my small step to 'de-demonize' this drug. Simple but fun.
 
