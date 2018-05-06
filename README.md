@@ -8,5 +8,5 @@ Adut AKA Census Income dataset. Classification on public data. I generated some 
 Another classification, this time on drug-related data from UCI ML Repository. Many classification problems are associated with this data - I decided to predict if someone is cannabis user. This is my small contribution to 'de-demonize' this drug. Simple, but fun.
 
 ## Allstate
-NN and XGBoost regression on dataset from Kaggle Allstate Claims Severity competition. Quite good results, but still some room for improvements. This was part of my course work during first tier/edition of [DataWorkshop](http://www.dataworkshop.eu/)
+NN and XGBoost regression on dataset from Kaggle Allstate Claims Severity competition. Quite promising results (at least from practical/business point of view, Kaggle is another story...), but still some space for improvements. This was part of my course work during first tier/edition of [DataWorkshop](http://www.dataworkshop.eu/)
 
