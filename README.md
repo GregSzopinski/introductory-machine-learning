@@ -2,7 +2,7 @@
 Some minor ML projects to show my progress.
 
 ## KaggleDays Warsaw 2018
-I had an amazing opportunity to participate in this great event and compete against some of kaggle masters. Finally our team reached 12 place (of around 40 teams) - our score was decent, but some major improvmements could be made. My aim is to implement these improvments and check how good our score will be. 
+I had an amazing opportunity to participate in this great event and compete against some of kaggle masters. Finally, our team reached 12 place (of around 40 teams) - our score was decent, but still far away from perfection - some major improvements could be made. My aim is to implement these improvments and check how good our score will be. 
 Sidenote: Unfortunately, test and train datasets are too big for github, but can be accessed [here](https://www.kaggle.com/c/kaggledays) 
 
 ## Predict if someone will earn over 50k $ anually
