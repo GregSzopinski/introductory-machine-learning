@@ -13,3 +13,6 @@ NN and XGBoost regression on dataset from Kaggle Allstate Claims Severity compet
 
 ## Drug Consumption
 Another classification, this time on drug-related data from UCI ML Repository. Many classification problems are associated with this data - I decided to predict if someone is cannabis user. This is my small contribution to 'de-demonize' this drug. Simple, but fun.
+
+## SVD from scratch
+Singular Value Decomposition is one of popular dimensionality reduction technques (also one of many useful ML tool with roots in linear algebra). There are many good implementations in popular python packages, but I tried to do it on my own, step by step. I wasn't trying to reinvent the wheel - the aim was to gain more thorough understanding of this tehniue and simple imrove my math skills.
