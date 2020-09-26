@@ -1,5 +1,5 @@
-# Machine_Learning
-Some minor ML projects to show my progress.
+# introductory-machine-learning
+Some minor ML projects. This repo served as sort-of portfolio, documenting my first attempts at machine learning.
 
 ## KaggleDays Warsaw 2018
 I had an amazing opportunity to participate in this great event and compete against some of kaggle masters. Finally, our team reached 12 place (of around 40 teams) - our score was decent, but still far away from perfection - some major improvements could be made. My aim is to implement these improvments and check how good our score will be. 
